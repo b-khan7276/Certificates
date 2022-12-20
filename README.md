@@ -34,3 +34,5 @@
  ## [CISSP](https://github.com/b-khan7276/Certificates/blob/main/CISSP%20(Updated)_Certificate%20of%20Achievement.pdf)
  ![image](https://user-images.githubusercontent.com/58091942/205971100-f5aad1f3-6ef1-4db4-b470-e0f0d399ebf8.png/)
  
+ ## [Windows Privilege Escalation](https://github.com/b-khan7276/Certificates/blob/main/certificate-of-completion-for-windows-privilege-escalation-for-beginners.pdf)
+ ![image](https://user-images.githubusercontent.com/58091942/208687764-4ac9f64b-c56c-4cf3-bbe7-86d15b696209.png)
