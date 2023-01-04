@@ -36,3 +36,6 @@
  
  ## [Windows Privilege Escalation](https://github.com/b-khan7276/Certificates/blob/main/certificate-of-completion-for-windows-privilege-escalation-for-beginners.pdf)
  ![image](https://user-images.githubusercontent.com/58091942/208687764-4ac9f64b-c56c-4cf3-bbe7-86d15b696209.png)
+
+## [Linux Privilege Escalation](https://github.com/b-khan7276/Certificates/blob/main/certificate-of-completion-for-linux-privilege-escalation-for-beginners.pdf)
+ ![image](https://user-images.githubusercontent.com/58091942/210625986-3a482add-855a-4f52-a974-9ee2600b178f.png)
