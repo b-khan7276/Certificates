@@ -39,3 +39,7 @@
 
 ## [Linux Privilege Escalation](https://github.com/b-khan7276/Certificates/blob/main/certificate-of-completion-for-linux-privilege-escalation-for-beginners.pdf)
  ![image](https://user-images.githubusercontent.com/58091942/210625986-3a482add-855a-4f52-a974-9ee2600b178f.png)
+ 
+ ## [Intro to Splunk](https://github.com/b-khan7276/Certificates/blob/main/award-e92e7b71-4f3a-37b4-afc3-9bbc7b38a4e7.pdf)
+![image](https://user-images.githubusercontent.com/58091942/213531024-ba8f77e5-0483-47e3-a905-0f8bfa85d72b.png)
+
