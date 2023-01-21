@@ -43,3 +43,7 @@
  ## [Intro to Splunk](https://github.com/b-khan7276/Certificates/blob/main/award-e92e7b71-4f3a-37b4-afc3-9bbc7b38a4e7.pdf)
 ![image](https://user-images.githubusercontent.com/58091942/213531024-ba8f77e5-0483-47e3-a905-0f8bfa85d72b.png)
 
+ ## [Splunk Infrastructure Overview](https://github.com/b-khan7276/Certificates/blob/main/Splunk%20Infrastructure%20Overview.pdf)
+ ![image](https://user-images.githubusercontent.com/58091942/213843538-d36fb1a1-624e-4d51-83c2-78a8b978ac30.png)
+
+
