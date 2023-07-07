@@ -47,6 +47,6 @@
  ![image](https://user-images.githubusercontent.com/58091942/213843538-d36fb1a1-624e-4d51-83c2-78a8b978ac30.png)
 
 ## [Nmap for ethical hackers](https://github.com/b-khan7276/Certificates/blob/main/nmap%20for%20hackers.jpg)
- ![image](![image](https://github.com/b-khan7276/Certificates/assets/58091942/1ef4bcc6-0132-4291-92cf-a0ac66f16c91)
-)
+ ![image](https://github.com/b-khan7276/Certificates/assets/58091942/1ef4bcc6-0132-4291-92cf-a0ac66f16c91)
+
 
